@@ -1,0 +1,34 @@
+// Reset
+// --------------------
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
+html {
+  font-size: 6.25%;
+}
+
+// General styling
+// --------------------
+
+:root {
+  --color-blue-grey: #717fa6;
+  --color-blue-grey-light: #f7f9ff;
+  --color-blue-grey-dark: #1f2e55;
+  --color-purple: #382ae1;
+}
+
+body {
+  font-size: 16rem;
+  font-family: "Red Hat Display", sans-serif;
+  color: var(--color-blue-grey);
+}
