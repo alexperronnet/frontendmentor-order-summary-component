@@ -25,10 +25,18 @@ html {
   --color-blue-grey-light: #f7f9ff;
   --color-blue-grey-dark: #1f2e55;
   --color-purple: #382ae1;
+  --color-pale-blue: #e0e8ff;
 }
 
 body {
+  width: 100%;
+  min-height: 100vh;
   font-size: 16rem;
   font-family: "Red Hat Display", sans-serif;
   color: var(--color-blue-grey);
+  background-color: var(--color-pale-blue);
+  background-image: url("./images/pattern-background-desktop.svg");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
