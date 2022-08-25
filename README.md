@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/order-summary-card-pxN40SUWlg)
 - [Live Site URL](https://alexperronnet.github.io/frontendmentor-order-summary-component/)
 
 ## My process
