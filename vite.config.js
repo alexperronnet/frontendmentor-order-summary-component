@@ -9,11 +9,6 @@ export default defineConfig({
   root,
   build: {
     outDir,
-    emptyOutDir: true,
-    rollupOptions: {
-      input: {
-        main: resolve(root, "index.html")
-      }
-    }
+    emptyOutDir: true
   }
 })

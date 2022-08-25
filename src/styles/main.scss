@@ -44,13 +44,13 @@ body {
   font-family: "Red Hat Display", sans-serif;
   color: var(--color-blue-grey);
   background-color: var(--color-pale-blue);
-  background-image: url("./images/pattern-background-desktop.svg");
+  background-image: url("/images/pattern-background-desktop.svg");
   background-position: top;
   background-repeat: no-repeat;
   background-size: contain;
 
   @media screen and (max-width: 640px) {
-    background-image: url("./images/pattern-background-mobile.svg");
+    background-image: url("/images/pattern-background-mobile.svg");
   }
 }
 
